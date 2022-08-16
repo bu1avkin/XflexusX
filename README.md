@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://twitter.com/lexus_20013" target="_blank">lexus</a> 
+<h1 align="center">Hi there, my name is <a href="https://twitter.com/lexus_20013" target="_blank">bulavkin</a> 
 <height="70"/></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=working+with+virtual+reality)](https://git.io/typing-svg)
