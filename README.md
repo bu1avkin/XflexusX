@@ -15,6 +15,6 @@ Skills: PYTHON / C# / UNITY / CRYPTO
 
 🌱 If you want to support me, here is my Bitcoin address: 0x97a37f91016cff9e57fd4c340129e82678face77 (BEP20) 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=XflexusX)  
+☕️ Or here: https://www.buymeacoffee.com/bulavkin
 
 ![Profile views](https://gpvc.arturio.dev/XflexusX)  
